@@ -1,0 +1,14 @@
+Run With PowerShell
+EinDoes is Free anyway, You Don't have to switch linux
+
+Credit
+Inspired by: Windows , Linux , TempleOS
+
+Made by : Anis Dahmani
+
+Use: Powershell
+
+Email: dahmanianis275@gmail.com
+Please contact our gmail
+
+Individual Company: EicroMosso
